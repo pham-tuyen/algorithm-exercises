@@ -1,2 +1,2 @@
 # algorithm-exercises
-This repository will give you <amount> exercises about different algorithm.
+This repository will give you 41 exercises about different algorithm.
